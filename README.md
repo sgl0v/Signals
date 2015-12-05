@@ -1,5 +1,6 @@
 # Signals
 [![Build Status](https://travis-ci.org/artman/Signals.svg?branch=master)](https://travis-ci.org/artman/Signals)
+[![Coverage Status](https://coveralls.io/repos/sgl0v/Signals/badge.svg?branch=master&service=github)](https://coveralls.io/github/sgl0v/Signals?branch=code_coverage)
 [![Cocoapods Compatible](https://img.shields.io/cocoapods/v/Signals.svg)](https://cocoapods.org/pods/Signals)
 [![Carthage Compatible](https://img.shields.io/badge/Carthage-compatible-4BC51D.svg?style=flat)](https://github.com/Carthage/Carthage)
 ![License](https://img.shields.io/cocoapods/l/Signals.svg?style=flat&color=gray)
